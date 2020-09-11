@@ -1,0 +1,18 @@
+<package>
+  <description brief="micro_doppler_pkg">
+
+     micro_doppler_pkg
+
+  </description>
+  <author>wt</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/micro_doppler_pkg</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="message_generation"/>
+
+</package>
+
+
